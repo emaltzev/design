@@ -4,4 +4,4 @@
 
 В рамках данной задачи была проведена классификация входных значений по методам **эквивалентного разбиения** и **анализа граничных значений**.
 
- [Смотреть таблицу в Google Sheets](https://docs.google.com/spreadsheets/d/1qnN9mdUF_fEVa4HHEgrn4CdAJB7qWne3K5z9SMylD4o/edit?usp=sharing)
+[Смотреть таблицу в Google Sheets](https://docs.google.com/spreadsheets/d/1qnN9mdUF_fEVa4HHEgrn4CdAJB7qWne3K5z9SMylD4o/edit?usp=sharing)
