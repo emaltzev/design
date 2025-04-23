@@ -9,4 +9,4 @@
 
 В рамках данного тестирования была применена техника попарного анализа комбинаций.
 
-[Открыть Google-таблицу](https://docs.google.com/spreadsheets/d/1U_mCIyJVsxB8UXvs0UggYzrv9LgDK8hBwDiE-qquSdI/edit?usp=sharing)
+[Смотреть таблицу в Google Sheets](https://docs.google.com/spreadsheets/d/1U_mCIyJVsxB8UXvs0UggYzrv9LgDK8hBwDiE-qquSdI/edit?usp=sharing)
